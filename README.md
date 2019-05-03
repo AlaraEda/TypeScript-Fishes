@@ -19,7 +19,7 @@ _**But I just had to kill them all.**_
 I have made this little exercise to better understand TypeScript, CSS and HTML.
 <br>The goal of the game is just clicking on as many fish as you can, brutally killing them in the process.
 <br>
-If you want to find this game written in another language, [click here](https://github.com/AlaraEdda/JavaScript-Fishes. 
+If you want to find this game written in another language, [click here](https://github.com/AlaraEdda/JavaScript-Fishes). 
 
 
 Link To the Online Version
